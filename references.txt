@@ -1,0 +1,16 @@
+1. Birzu, C., French, P., Caccese, M., Cerretti, G., Idbaih, A., Zagonel, V., & Lombardi, G. (2020). Recurrent glioblastoma: from molecular landscape to new treatment perspectives. Cancers, 13(1), 47.
+
+2. Immune Cell Gene Signatures for Profiling the Microenvironment of Solid Tumors
+Ajit J. Nirmal, Tim Regan, Barbara B. Shih, David A. Hume, Andrew H. Sims and Tom C. Freeman Cancer Immunol Res November 1 2018 (6) (11) 1388-1400; DOI: 10.1158/2326-6066.CIR-18-0342
+
+3. Neftel, C., Laffy, J., Filbin, M. G., Hara, T., Shore, M. E., Rahme, G. J., ... & Suvà, M. L. (2019). An integrative model of cellular states, plasticity, and genetics for glioblastoma. Cell, 178(4), 835-849.
+
+4. Aibar S, Bravo Gonzalez-Blas C, Moerman T, Huynh-Thu V, Imrichova H, Hulselmans G, Rambow F, Marine J, Geurts P, Aerts J, van den Oord J, Kalender Atak Z, Wouters J, Aerts S (2017). “SCENIC: Single-Cell Regulatory Network Inference And Clustering.” Nature Methods, 14, 1083-1086.
+
+5. Cloughesy, T. F., Mochizuki, A. Y., Orpilla, J. R., Hugo, W., Lee, A. H., Davidson, T. B., ... & Prins, R. M. (2019). Neoadjuvant anti-PD-1 immunotherapy promotes a survival benefit with intratumoral and systemic immune responses in recurrent glioblastoma. Nature medicine, 25(3), 477-486.
+
+6. Ruiz-Moreno, C., Salas, S. M., Samuelsson, E., Brandner, S., Kranendonk, M. E., Nilsson, M., & Stunnenberg, H. G. (2022). Harmonized single-cell landscape, intercellular crosstalk and tumor architecture of glioblastoma. bioRxiv.
+
+7. Garofano, L., Migliozzi, S., Oh, Y. T., D’Angelo, F., Najac, R. D., Ko, A., ... & Iavarone, A. (2021). Pathway-based classification of glioblastoma uncovers a mitochondrial subtype with therapeutic vulnerabilities. Nature cancer, 2(2), 141-156.
+
+8. Yan, K., Lu, Y., Yan, Z., & Wang, Y. (2021). 9-Gene Signature Correlated With CD8+ T Cell Infiltration Activated by IFN-γ: A Biomarker of Immune Checkpoint Therapy Response in Melanoma. Frontiers in immunology, 2223.
